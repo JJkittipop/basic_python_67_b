@@ -117,4 +117,4 @@ print( not (a == 5) or (a <= 4))
 print( (a < 7) & (b > 7))
 print( (a == 5) | ( b <= 10))
 
->>>>>>> 00441452adde99a7728ca952e3e826f6fef2bf48
+
