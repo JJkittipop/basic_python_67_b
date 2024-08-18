@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 #
 # Part:Python Comment
@@ -25,7 +25,7 @@ print ("Hell world!!!")
 #
 """
 x = 5 # Integer
-y = "Hey Brus" # String
+y = "Hey Bruh" # String
 print(x, y)
 
 x = str(3)
@@ -61,16 +61,16 @@ my_variable_name = "John"
 # Part: Python String
 #
 """
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x)
 
 y = """
-1 Hey Brus
-2 Hey Brus
-3 Hey Brus
+1 Hey Bruh
+2 Hey Bruh
+3 Hey Bruh
  """
 print(y)
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x[2])
 print(len(x))
 print("Hey" in x)
@@ -78,7 +78,7 @@ print("what sup" not in x)
 print(x.upper())
 print(x.lower())
 
-print(x.replace("Brus" , "sis"))
+print(x.replace("Bruh" , "sis"))
 print(x.split(" "))
 
 a = "apple"
@@ -88,7 +88,6 @@ print(a + " " + b)
 
 price = 20
 word = f"Price: {price:.2f}"
-=======
 """
 #
 # Part:Python Comment
@@ -115,7 +114,7 @@ print ("Hell world!!!")
 #
 """
 x = 5 # Integer
-y = "Hey Brus" # String
+y = "Hey Bruh" # String
 print(x, y)
 
 x = str(3)
@@ -151,16 +150,16 @@ my_variable_name = "John"
 # Part: Python String
 #
 """
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x)
 
 y = """
-1 Hey Brus
-2 Hey Brus
-3 Hey Brus
+1 Hey Bruh
+2 Hey Bruh
+3 Hey Bruh
  """
 print(y)
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x[2])
 print(len(x))
 print("Hey" in x)
@@ -168,7 +167,7 @@ print("what sup" not in x)
 print(x.upper())
 print(x.lower())
 
-print(x.replace("Brus" , "sis"))
+print(x.replace("Bruh" , "sis"))
 print(x.split(" "))
 
 a = "apple"
@@ -178,5 +177,4 @@ print(a + " " + b)
 
 price = 20
 word = f"Price: {price:.2f}"
->>>>>>> 00441452adde99a7728ca952e3e826f6fef2bf48
 print(word)

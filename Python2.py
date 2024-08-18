@@ -57,7 +57,6 @@ print( (a < 7) & (b > 7))
 print( (a == 5) | ( b <= 10))
 
 print(1)
-=======
 """
 #
 # Part: Python Operators
