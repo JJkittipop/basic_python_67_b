@@ -32,5 +32,5 @@ myFruit(fruits)
 
 def redPotion(hp):
     return hp + 50
-print("Hp: ", redPotion(100))
-print("Hp: ", redPotion(30))
+print("Hp: " , redPotion(100))
+print("Hp: " , redPotion(30))
